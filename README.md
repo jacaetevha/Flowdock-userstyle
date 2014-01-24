@@ -14,4 +14,4 @@ Enjoy :)
 
 ## Screenshot
 
-![screenshot.png](../blob/master/screenshot.png?raw=true)
+![screenshot.png](../master/screenshot.png?raw=true)
