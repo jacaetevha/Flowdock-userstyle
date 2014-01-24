@@ -1,7 +1,7 @@
 Flowdock-userstyle
 ====================
 
-Pretty userstyle.css for Flowdock app
+Dark userstyle.css for Flowdock app with large Emojis
 
 ## Usage
 
@@ -11,3 +11,7 @@ For using just copy userstyle.css into the following folder:
 
 Or clone this repository to stay up to date.
 Enjoy :)
+
+## Screenshot
+
+![screenshot.png](../blob/master/screenshot.png?raw=true)
